@@ -1,4 +1,7 @@
 next commit
 edited before merge from masters to faetures
 master edit before merge
+<<<<<<< HEAD
 
+=======
+>>>>>>> features
