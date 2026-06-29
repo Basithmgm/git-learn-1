@@ -3,3 +3,4 @@ hai this feature edit
 this is branch edit
 this is branch edit master
 positive commit from master
+master two (second line)
