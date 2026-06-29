@@ -1,6 +1,12 @@
 hai this master
 hai this feature edit
 this is branch edit
+
 this is branch edit master
 positive commit from master
 master two (second line)
+
+from features to master merge
+positive commit from features
+features two (second line)
+
